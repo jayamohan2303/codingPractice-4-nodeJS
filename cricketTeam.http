@@ -1,0 +1,11 @@
+//API 1 
+GET http://localhost:3000/players/
+###
+
+
+//API 2
+POST http://localhost:3000/players/
+
+
+//API 3
+GET http://localhost:3000/players/1/
